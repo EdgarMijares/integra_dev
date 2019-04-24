@@ -7,6 +7,8 @@ ruby RUBY_VERSION
 gem "decidim", "0.17.0"
 # gem "decidim-consultations", "0.17.0"
 # gem "decidim-initiatives", "0.17.0"
+gem "decidim-system", "0.17.0"
+gem "decidim-blogs"
 
 gem "bootsnap", "~> 1.3"
 
