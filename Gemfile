@@ -10,6 +10,8 @@ gem "decidim", "0.17.0"
 gem "decidim-system", "0.17.0"
 gem "decidim-blogs"
 
+gem "decidim-deploy-heroku", git: "https://github.com/codegram/decidim-deploy-heroku.git"
+
 gem "bootsnap", "~> 1.3"
 
 gem "puma", "~> 3.0"
